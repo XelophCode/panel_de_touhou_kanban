@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## need to do
 
 - [ ] death mechanic
-- [ ] time freeze mechanic
 - [ ] garbage mechanic
 - [ ] create player 2 screen
 - [ ] hook up player 2 controls
@@ -17,6 +16,7 @@ kanban-plugin: basic
 ## in progress
 
 - [ ] chain mechanic
+- [ ] time freeze mechanic
 
 
 ## mostly completed, still needs work
