@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## need to do
 
-- [ ] chain mechanic
 - [ ] death mechanic
 - [ ] time freeze mechanic
 - [ ] garbage mechanic
@@ -17,12 +16,13 @@ kanban-plugin: basic
 
 ## in progress
 
-- [ ] match mechanic
+- [ ] chain mechanic
 
 
 ## mostly completed, still needs work
 
 - [ ] falling block mechanics
+- [ ] match mechanic
 
 
 ## completed
