@@ -6,17 +6,18 @@ kanban-plugin: basic
 
 ## need to do
 
-- [ ] gotta do a thing
+- [ ] more stuff to do
 
 
 ## in progress
 
-- [ ] working on a thing
+- [ ] gotta do a thing
 
 
 ## completed
 
 - [ ] just finished a thing
+- [ ] working on a thing
 
 
 ## pillars to do
