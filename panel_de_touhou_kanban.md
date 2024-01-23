@@ -14,6 +14,8 @@ kanban-plugin: basic
 
 ## in progress
 
+- [ ] refactoring board code
+- [ ] working on GDD
 
 
 ## mostly completed, still needs work
